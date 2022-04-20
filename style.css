@@ -1,0 +1,32 @@
+.navbar {
+    list-style: none;
+    display: flex;
+    justify-content: space-between;
+}
+a {
+    margin: 10px;
+    text-decoration: none;
+    color: black;
+}
+.navbar-li {
+    display: inline-block;
+
+}
+
+.banner {
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.slide_my {
+    width: 50%;
+}
+
+.side_text {
+    width: 50%;
+    margin-left: 20px;
+    flex-wrap: wrap;
+    text-align: center;
+    display: flex;
+    align-items: center;
+}
