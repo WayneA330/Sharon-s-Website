@@ -1,0 +1,35 @@
+* {
+    margin: 0px;
+    padding: 0px;
+ }
+
+.contact{
+    position: relative;
+    border: 1px solid black;
+    background-image: url("contact.jpg");
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    color: white;
+}
+
+
+.contactUs{
+    text-align: center;
+}
+
+.map-container-section {
+    overflow:hidden;
+    padding-bottom:56.25%;
+    position:relative;
+    height:0;
+  }
+  .map-container-section iframe {
+    left:0;
+    top:0;
+    height:100%;
+    width:100%;
+    position:absolute;
+  }
+
+ 
